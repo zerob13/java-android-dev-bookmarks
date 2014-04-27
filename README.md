@@ -5,6 +5,8 @@
 		+ [Eclipse4 RCP tutorial](http://www.vogella.com/articles/EclipseRCP/article.html)
 		+ [WTP tutorial](http://www.vogella.com/articles/EclipseWTP/article.html)
 	+ JBuilder
+	+ Android Studio
+		+ [Getting Started with Android Studio](http://developer.android.com/sdk/installing/studio.html)
 + Documents and Tutorials
 	+ Documents
 		+ [Jdocs](http://www.jdocs.com/)
